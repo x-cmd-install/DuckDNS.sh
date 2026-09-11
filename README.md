@@ -12,6 +12,15 @@ A Posix Shell Script (Bash-compatible) for tracking your IP address (at home, or
 x install DuckDNS.sh
 ```
 
+## Code insight
+
+Total: **418** lines of code across **3** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Sh | 418 | 31 | 91 | 2 |
+| Markdown | 0 | 85 | 38 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/BeyondCodeBootcamp/DuckDNS.sh>
@@ -34,18 +43,12 @@ x install DuckDNS.sh
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **418** lines of code across **3** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Sh | 418 | 31 | 91 | 2 |
-| Markdown | 0 | 85 | 38 | 1 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -56,4 +59,4 @@ Install metadata for DuckDNS.sh lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:04:42Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:13:39Z._
